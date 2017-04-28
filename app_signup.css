@@ -16,99 +16,84 @@ body{
                 width:10%;
                   display:block;
                     margin:auto;
-                      float:left;
-                        padding-left:12.5%;
+                      float:center;
+                        padding-left:0%;
                         }
 
-                        h3{
-                          color:#a87b4f;
-                            font-size:12px;
-                              font-weight:normal
-                              }
 
-                              input[type=text]{
-                                margin-top:0%;
-                                  background-color:rgb(255,228,146);
-                                    margin-left:0%;
-                                      width:100%;
-                                        height:4em;
-                                          margin-bottom:0.3em;
-                                            outline:none;
-                                            }
+                        input[type=text]{
+                          margin-top:0%;
+                            background-color:rgb(255,228,146);
+                              margin-left:0%;
+                                width:100%;
+                                  height:2.5em;
+                                    margin-bottom:0.3em;
+                                      outline:none;
+                                      }
 
-                                            input[type=year]{
-                                              margin-top:0%;
-                                                margin-right:3.5%;
-                                                  background-color:rgb(255,228,146);
-                                                    float:left;
-                                                      width:31%;
-                                                        height:4em;
-                                                          margin-bottom:0.3em;
-                                                            outline:none;
-                                                            }
+                                      input[type=year]{
+                                        margin-top:0%;
+                                          margin-right:3.5%;
+                                            background-color:rgb(255,228,146);
+                                              float:left;
+                                                width:31%;
+                                                  height:2.5em;
+                                                    margin-bottom:0.3em;
+                                                      outline:none;
+                                                      }
 
-                                                            input[type=month2]{
-                                                              margin-top:0%;
-                                                                margin-right:3.5%;
-                                                                  background-color:rgb(255,228,146);
-                                                                    float:left;
-                                                                      width:31%;
-                                                                        height:4em;
-                                                                          margin-bottom:0.3em;
-                                                                            outline:none;
-                                                                            }
+                                                      input[type=month2]{
+                                                        margin-top:0%;
+                                                          margin-right:3.5%;
+                                                            background-color:rgb(255,228,146);
+                                                              float:left;
+                                                                width:31%;
+                                                                  height:2.5em;
+                                                                    margin-bottom:0.3em;
+                                                                      outline:none;
+                                                                      }
 
-                                                                            input[type=day]{
-                                                                              margin-top:0%;
-                                                                                background-color:rgb(255,228,146);
-                                                                                  float:left;
-                                                                                    width:31%;
-                                                                                      height:4em;
-                                                                                        margin-bottom:0.3em;
-                                                                                          outline:none;
-                                                                                          }
+                                                                      input[type=day]{
+                                                                        margin-top:0%;
+                                                                          background-color:rgb(255,228,146);
+                                                                            float:left;
+                                                                              width:31%;
+                                                                                height:2.5em;
+                                                                                  margin-bottom:0.3em;
+                                                                                    outline:none;
+                                                                                    }
 
 
-                                                                                          ::-webkit-input-placeholder{
-                                                                                            color:white;
-                                                                                            }
+                                                                                    ::-webkit-input-placeholder{
+                                                                                      color:white;
+                                                                                      }
 
-                                                                                            input[type=button]{
-                                                                                              color:white;
-                                                                                                background-color:rgb(138,163,40);
-                                                                                                  margin-left:0%;
-                                                                                                    width:100%;
-                                                                                                      height:4em;
-                                                                                                        margin-bottom:0.2em;
-                                                                                                          outline:none;
-                                                                                                          }
+                                                                                      input[type=button]{
+                                                                                        color:white;
+                                                                                          background-color:rgb(138,163,40);
+                                                                                            margin-left:0%;
+                                                                                              width:100%;
+                                                                                                height:2.5em;
+                                                                                                  margin-bottom:0.2em;
+                                                                                                    outline:none;
+                                                                                                    }
 
-                                                                                                          button{
-                                                                                                            display:block;
-                                                                                                              background-color:white;
-                                                                                                                margin-top:0.3em;
-                                                                                                                  border:none;
-                                                                                                                    color:#a87b4f;
-                                                                                                                      text-align:center;
-                                                                                                                        width:100%;
-                                                                                                                          margin-left:0%;
-                                                                                                                            outline:none;
-                                                                                                                            }
+                                                                                                    button{
+                                                                                                      display:block;
+                                                                                                        background-color:white;
+                                                                                                          margin-top:0.3em;
+                                                                                                            border:none;
+                                                                                                              color:#a87b4f;
+                                                                                                                text-align:left;
+                                                                                                                  width:100%;
+                                                                                                                    margin-left:0%;
+                                                                                                                      outline:none;
+                                                                                                                      }
 
-                                                                                                                            #setting{
-                                                                                                                              margin-top:1%;
-                                                                                                                                width:4%;
-                                                                                                                                  padding-right:2%
-                                                                                                                                  }
 
-                                                                                                                                  #logo{
-                                                                                                                                    width:15%;
-                                                                                                                                      display:block;
-                                                                                                                                        margin:auto;
-                                                                                                                                        }
-
-                                                                                                                                        p{
-                                                                                                                                          color:#a87b4f;
-                                                                                                                                          }
+                                                                                                                      p{
+                                                                                                                        font-size:1.5vw;
+                                                                                                                          color:#a87b4f;
+                                                                                                                          }
 
 
